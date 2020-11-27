@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >  
+  <p1 id="47"> 
+    <name>lixiaoqin</name>  
+    <age>30</age> 
+  </p1>  
+  <p1> 
+    <name>lilei</name>  
+    <age>19</age> 
+  </p1> 
+</person>
